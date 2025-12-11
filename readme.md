@@ -29,7 +29,7 @@ O projeto é uma adaptação prática do "WeatherViewer App" (Capítulo 7 do liv
 
 1.  **Clone este repositório** em sua máquina:
     ```bash
-    git clone [https://github.com/linskrs/Prog3-WeatherViewer.git](https://github.com/linskrs/Prog3-WeatherViewer.git)
+    git clone https://github.com/linskrs/Prog3-WeatherViewer.git
     ```
 2.  Abra o **Android Studio** e selecione "Open an Existing Project".
 3.  Navegue até a pasta clonada e clique em **OK**.
@@ -46,3 +46,10 @@ Conforme solicitado nos requisitos da entrega, abaixo está um exemplo da URL ge
 
 ```http
 http://agent-weathermap-env-env.eba-6pzgqekp.us-east-2.elasticbeanstalk.com/api/weather?city=Itau%20de%20minas%2C%20MG%2C%20BR&days=7&APPID=AgentWeather2024_a8f3b9c1d7e2f5g6h4i9j0k1l2m3n4o5p6
+```
+
+## 📸 Captura de Tela
+
+Abaixo, o resultado da execução do aplicativo exibindo a previsão da minha cidade, retornada pela API:
+
+![Resultado da Consulta](resultado.png)
