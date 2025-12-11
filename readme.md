@@ -45,4 +45,4 @@ O projeto é uma adaptação prática do "WeatherViewer App" (Capítulo 7 do liv
 Conforme solicitado nos requisitos da entrega, abaixo está um exemplo da URL gerada pelo aplicativo para realizar a consulta:
 
 ```http
-http://agent-weathermap-env-env.eba-6pzgqekp.us-east-2.elasticbeanstalk.com/api/weather?city=Passos%20MG%20BR&days=7&APPID=AgentWeather2024_a8f3b9c1d7e2f5g6h4i9j0k1l2m3n4o5p6](http://agent-weathermap-env-env.eba-6pzgqekp.us-east-2.elasticbeanstalk.com/api/weather?city=Passos%20MG%20BR&days=7&APPID=AgentWeather2024_a8f3b9c1d7e2f5g6h4i9j0k1l2m3n4o5p6)
+http://agent-weathermap-env-env.eba-6pzgqekp.us-east-2.elasticbeanstalk.com/api/weather?city=Itau%20de%20minas%2C%20MG%2C%20BR&days=7&APPID=AgentWeather2024_a8f3b9c1d7e2f5g6h4i9j0k1l2m3n4o5p6
