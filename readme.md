@@ -1,9 +1,9 @@
 # 🌦️ WeatherViewer - Consumo de API
 
-**👨‍💻 Aluno:** Liniker Silva
-**🎓 Curso:** Sistemas de Informação
-**📚 Disciplina:** Programação III (2025/02)
-**🏫 Instituição:** UEMG - Unidade Passos
+**👨‍💻 Aluno:** Liniker Silva 
+**🎓 Curso:** Sistemas de Informação 
+**📚 Disciplina:** Programação III (2025/02) 
+**🏫 Instituição:** UEMG - Unidade Passos 
 
 ---
 
